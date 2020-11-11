@@ -1,11 +1,29 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.jumbotron h1,
+p {
+  text-align: center;
+}
+
+.burger-label {
+  text-align: center;
+}
+
 li {
+  list-style-type: none;
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background: #b3eaf8;
 }
 
 .label {
   font-weight: bold;
+}
+
+.add-burger-form {
+  text-align: center;
 }
 
 .create-update-form {
